@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537670526 source:c:\users\nicolai romero\desktop\mys-1.2\fib\main.cpp
+	<iostream>
+	<math.h>
+
